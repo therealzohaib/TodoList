@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\TodoListPrototype2\MainClass\bin\Debug\MainClass.exe.config
+C:\Users\Dell\Desktop\TodoListPrototype2\MainClass\bin\Debug\MainClass.exe
+C:\Users\Dell\Desktop\TodoListPrototype2\MainClass\bin\Debug\MainClass.pdb
+C:\Users\Dell\Desktop\TodoListPrototype2\MainClass\obj\Debug\MainClass.LoginForm.resources
+C:\Users\Dell\Desktop\TodoListPrototype2\MainClass\obj\Debug\MainClass.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\TodoListPrototype2\MainClass\obj\Debug\MainClass.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\TodoListPrototype2\MainClass\obj\Debug\MainClass.exe
+C:\Users\Dell\Desktop\TodoListPrototype2\MainClass\obj\Debug\MainClass.pdb

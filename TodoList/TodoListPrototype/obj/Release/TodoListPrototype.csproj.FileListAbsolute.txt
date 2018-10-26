@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\TodoListPrototype2\TodoListPrototype\bin\Release\TodoListPrototype.exe.config
+C:\Users\Dell\Desktop\TodoListPrototype2\TodoListPrototype\bin\Release\TodoListPrototype.exe
+C:\Users\Dell\Desktop\TodoListPrototype2\TodoListPrototype\bin\Release\TodoListPrototype.pdb
+C:\Users\Dell\Desktop\TodoListPrototype2\TodoListPrototype\obj\Release\TodoListPrototype.AddTasks.resources
+C:\Users\Dell\Desktop\TodoListPrototype2\TodoListPrototype\obj\Release\TodoListPrototype.Form1.resources
+C:\Users\Dell\Desktop\TodoListPrototype2\TodoListPrototype\obj\Release\TodoListPrototype.MainAppWindow.resources
+C:\Users\Dell\Desktop\TodoListPrototype2\TodoListPrototype\obj\Release\TodoListPrototype.MarkTasksCompleted.resources
+C:\Users\Dell\Desktop\TodoListPrototype2\TodoListPrototype\obj\Release\TodoListPrototype.Properties.Resources.resources
+C:\Users\Dell\Desktop\TodoListPrototype2\TodoListPrototype\obj\Release\TodoListPrototype.Signup.resources
+C:\Users\Dell\Desktop\TodoListPrototype2\TodoListPrototype\obj\Release\TodoListPrototype.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\TodoListPrototype2\TodoListPrototype\obj\Release\TodoListPrototype.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\TodoListPrototype2\TodoListPrototype\obj\Release\TodoListPrototype.exe
+C:\Users\Dell\Desktop\TodoListPrototype2\TodoListPrototype\obj\Release\TodoListPrototype.pdb
+C:\Users\Dell\Desktop\TodoListPrototype2\TodoListPrototype\obj\Release\TodoListPrototype.csprojResolveAssemblyReference.cache
